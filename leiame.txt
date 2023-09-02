@@ -1,0 +1,17 @@
+Como usar
+
+
+01 - Instale as bibliotecas:
+
+pip install pyTelegramBotAPI ou pip install telebot
+
+Link: https://pypi.org/project/pyTelegramBotAPI/
+
+02 - Crie seu bot no botfather do Telegram: https://t.me/BotFather
+- Pegue o token gerado e vá no codigo python (configbot.py) do projeto e substitua a mensagem entre "aspas" pelo seu token,
+salve a aplicação. E inicie o bot.
+
+
+
+obs: instale o python no seu pc
+link: https://www.python.org/downloads/
